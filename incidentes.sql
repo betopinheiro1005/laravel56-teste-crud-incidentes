@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: May 27, 2019 at 08:21 PM
+-- Generation Time: May 28, 2019 at 09:31 AM
 -- Server version: 5.7.24
 -- PHP Version: 7.2.11
 
@@ -44,56 +44,56 @@ CREATE TABLE `incidents` (
 --
 
 INSERT INTO `incidents` (`id`, `title`, `description`, `criticality`, `type`, `status`, `created_at`, `updated_at`) VALUES
-(1, 'Odit necessitatibus est sunt totam.', 'Amet excepturi dolore tempore odio vitae dolor fugiat dolor. Perspiciatis voluptatem reprehenderit quia. Dicta sed et aut molestias. Iste maxime rem quas.', '3', '3', 0, '2018-04-04 06:52:25', '2019-05-27 18:21:06'),
-(2, 'Ut inventore molestias molestiae dolor.', 'Quia voluptatem at cum velit vel. Minima vel asperiores nostrum dolor nisi debitis. Corrupti natus porro sed repellendus voluptas veniam ipsa.', '2', '4', 0, '2019-05-04 20:49:36', '2019-05-27 18:21:06'),
-(3, 'Adipisci placeat repellat eveniet voluptas consequatur voluptatem.', 'Quia at est neque veritatis rerum impedit veritatis. Sed voluptatem reprehenderit ipsam quia amet. Et consequatur incidunt fuga dolores harum. Voluptate dolor quibusdam laudantium esse.', '2', '2', 0, '2018-06-05 01:52:11', '2019-05-27 18:21:06'),
-(4, 'Aut incidunt nisi qui qui voluptates.', 'Consectetur libero quis voluptatibus eum error qui. Vel eaque placeat rem sit porro. Eaque ducimus dignissimos qui vel nobis officiis fugit. Fuga dolorem molestiae blanditiis aut doloremque ut dolores.', '3', '3', 0, '2017-06-13 10:41:36', '2019-05-27 18:21:06'),
-(5, 'Amet et est ratione et est.', 'Incidunt aut officiis aliquid consequuntur. Dolor distinctio rerum ratione id. Cupiditate suscipit sed dolor et quos eligendi fuga sit. Sit veritatis consequatur vitae aut. Fuga harum sit ab quia.', '3', '4', 0, '2017-12-22 14:10:39', '2019-05-27 18:21:06'),
-(6, 'Quos quam expedita vitae distinctio sed.', 'Ut libero fugiat esse corrupti molestiae pariatur. Maiores qui ullam ullam tenetur debitis. Dolorum porro qui cupiditate odit.', '1', '1', 1, '2018-01-29 18:03:55', '2019-05-27 18:21:06'),
-(7, 'Et rem saepe est quia.', 'Ratione quod aliquam consequatur autem sequi dolorem. Impedit culpa rerum et dolorem. Iusto voluptas ut fugit fugit vero beatae. Id est quis harum occaecati fugit sapiente voluptatum.', '1', '1', 1, '2017-07-08 12:37:19', '2019-05-27 18:21:06'),
-(8, 'Aut dolore id doloremque.', 'Est ipsa deleniti dolores corporis pariatur delectus fugiat. Et est expedita consequatur. Temporibus voluptatem aliquam aut blanditiis sit non consequatur. Qui dolorum cupiditate culpa ut ut esse magni.', '2', '3', 1, '2017-08-24 18:51:14', '2019-05-27 18:21:06'),
-(9, 'Eum est dolor voluptas ut sed ab.', 'Et numquam consequatur aliquam ea. Natus distinctio nihil dolores. Totam tempora facilis est qui optio. Unde consequatur minima ullam fuga.', '2', '1', 1, '2017-12-25 04:13:41', '2019-05-27 18:21:07'),
-(10, 'Molestiae sit enim quia veritatis eligendi optio.', 'Nesciunt deserunt cupiditate quia aut et iusto occaecati. Voluptas dolor est optio ex totam quia exercitationem molestiae. Repellendus dicta consequatur quibusdam consequatur at officia libero molestiae.', '3', '3', 1, '2019-02-13 09:37:40', '2019-05-27 18:21:07'),
-(11, 'Suscipit natus dolorem quibusdam ipsa omnis voluptatem magni id.', 'Ea quod sint incidunt aut. Voluptatem commodi culpa est illo eius. Laborum ut dolore soluta ipsum expedita. Minus itaque qui voluptates est quasi suscipit.', '3', '1', 1, '2018-08-30 22:12:52', '2019-05-27 18:21:07'),
-(12, 'Facere architecto cum non amet ipsum.', 'Placeat est voluptas molestiae ullam quasi excepturi eaque. Eveniet deleniti modi molestiae quia eos saepe voluptatem.', '3', '3', 0, '2018-02-15 07:31:30', '2019-05-27 18:21:07'),
-(13, 'Rerum quaerat dicta molestias sed.', 'Perferendis alias omnis consequuntur officia temporibus. Itaque eius veritatis illo magni dolores provident. Ea molestiae minima dolores est beatae. Inventore debitis quos eos quod voluptatum commodi quia. Dolorem cupiditate at id asperiores natus.', '3', '2', 0, '2018-09-26 12:02:37', '2019-05-27 18:21:07'),
-(14, 'Autem nisi nihil ut repudiandae consectetur alias nostrum.', 'Quibusdam culpa sint ipsum culpa quia. Provident doloribus nihil non quia. Ea nisi quasi nisi ullam voluptatem. Nulla quia recusandae et dolor id totam. Voluptate ea quam exercitationem ut sit.', '2', '4', 0, '2018-09-15 13:21:47', '2019-05-27 18:21:07'),
-(15, 'Suscipit totam cumque unde ad sint et.', 'Ullam eveniet est expedita provident delectus error quam et. Eaque aut voluptatum vero rerum. Est exercitationem laborum neque asperiores totam deserunt sint. Aliquid qui cum enim deleniti veritatis cupiditate.', '2', '4', 0, '2017-12-23 16:07:47', '2019-05-27 18:21:07'),
-(16, 'Enim reiciendis similique optio debitis non nesciunt.', 'Voluptas dolore porro unde deleniti. Debitis itaque quae placeat labore libero. Aut voluptatem in reprehenderit rem ut. Est corporis consequuntur enim similique.', '2', '2', 1, '2019-05-08 08:51:06', '2019-05-27 18:21:07'),
-(17, 'Reiciendis deserunt voluptas et itaque qui odit et.', 'Animi ea unde quod et. Similique quos non tempore quis. Laborum nobis ipsum ut autem voluptatibus quis eum.', '3', '2', 1, '2018-09-08 08:13:44', '2019-05-27 18:21:07'),
-(18, 'Voluptates expedita esse ut architecto veritatis eum qui.', 'Quia eligendi sint eum beatae incidunt temporibus. Aliquam necessitatibus harum voluptatum quibusdam quis molestiae. Porro dolorem distinctio ab laudantium et fugiat. Rem perspiciatis dolorem aut accusantium deleniti saepe eveniet. Culpa voluptates non nam cumque voluptas natus saepe.', '3', '2', 1, '2018-09-28 04:36:58', '2019-05-27 18:21:07'),
-(19, 'Enim vitae assumenda commodi consequatur repellat aut voluptatum incidunt.', 'Ut dolorum laborum nulla voluptatem provident autem. Molestiae assumenda vel temporibus dolore. Et possimus officiis quam earum quis suscipit. Eius ratione ratione reiciendis in.', '2', '1', 1, '2018-06-30 02:41:13', '2019-05-27 18:21:07'),
-(20, 'Nihil dolore eum sed exercitationem facilis magni.', 'Odio ut nihil veritatis rerum velit nisi. Aut aperiam laborum aut architecto fuga dolores officia. Accusamus quis numquam id et repudiandae eos. Natus sed officiis magnam sed illo et.', '3', '3', 1, '2018-09-21 12:19:22', '2019-05-27 18:21:07'),
-(21, 'Eum qui magnam amet consequatur porro qui illo suscipit.', 'Adipisci veniam molestiae sit quasi. Et perspiciatis doloribus distinctio dolore. Illo veniam et sit tempore quo cumque praesentium. Blanditiis consectetur eligendi odio ut accusantium aut praesentium.', '1', '2', 0, '2017-06-22 06:15:54', '2019-05-27 18:21:07'),
-(22, 'Ea voluptas atque a sed et iste.', 'Ex aut aut quam. Error modi incidunt voluptas sapiente harum. Culpa officia natus aliquid velit provident adipisci. Dolorem consequatur sint nostrum minus voluptatem quisquam et.', '1', '3', 1, '2017-10-22 07:33:56', '2019-05-27 18:21:07'),
-(23, 'Ab quis non omnis tempore deserunt consequuntur.', 'Atque provident excepturi labore. Nobis impedit et doloremque. Possimus at et iure nesciunt voluptatibus.', '2', '3', 1, '2018-05-14 07:06:54', '2019-05-27 18:21:07'),
-(24, 'Nobis officia facilis in delectus.', 'Nihil incidunt molestias non quasi rerum. Sint qui voluptas ut et voluptates magni natus. Consectetur sunt voluptas cum est voluptatibus eveniet eos. Autem sed non reiciendis.', '3', '3', 1, '2017-09-23 19:06:44', '2019-05-27 18:21:07'),
-(25, 'Enim optio quae sed adipisci sed ab.', 'Qui vel id eum quas. Perferendis voluptatem et rerum. Excepturi laborum libero nostrum velit nisi tenetur. Id molestiae velit laboriosam quasi vitae et vel.', '1', '2', 0, '2017-07-11 06:47:42', '2019-05-27 18:21:07'),
-(26, 'Qui id ut qui enim.', 'Aliquid itaque sed aliquid sit sed deserunt possimus totam. Nesciunt aut architecto enim veritatis. Veniam id ut quaerat blanditiis eum.', '3', '4', 0, '2017-12-01 01:15:17', '2019-05-27 18:21:07'),
-(27, 'Id praesentium recusandae hic iste.', 'Repellat voluptates quia laboriosam quibusdam sed distinctio. Occaecati aut est libero aperiam et. Voluptatem iusto illo veniam quae. Numquam laboriosam rem quia nobis.', '3', '1', 0, '2017-09-01 03:15:38', '2019-05-27 18:21:07'),
-(28, 'Ut suscipit consequatur veritatis.', 'Aut et odio ullam quis. Pariatur qui quia voluptatem saepe maiores aspernatur vitae sequi. Et quisquam explicabo in dolores. Non esse molestiae facilis voluptate.', '1', '2', 0, '2018-11-28 15:01:17', '2019-05-27 18:21:07'),
-(29, 'Qui molestiae quia rerum veniam.', 'Ut voluptas magnam optio. Quasi provident asperiores deleniti autem in numquam eum qui. Ut asperiores necessitatibus repellat tenetur facilis ea illo in. Facere labore excepturi et.', '2', '4', 1, '2018-07-04 15:06:38', '2019-05-27 18:21:07'),
-(30, 'Eum nam maxime occaecati at doloribus libero quia et.', 'Non officiis ab et nihil sunt. Ratione dolores quia corrupti qui et tenetur. Minima qui et minus earum est et nihil quae. Aut qui fugiat totam numquam.', '3', '3', 0, '2018-12-10 06:19:00', '2019-05-27 18:21:07'),
-(31, 'Est voluptates qui minus impedit et.', 'Deleniti exercitationem voluptas est quis possimus sunt consequatur recusandae. Ipsa aut suscipit ipsum ratione. Voluptas aliquam amet quo at et odit facilis et. Quia et ut aspernatur voluptatem corporis qui. Sint culpa voluptatem rerum.', '1', '2', 0, '2017-06-30 19:19:59', '2019-05-27 18:21:07'),
-(32, 'Cum sed magnam eos velit sed unde molestiae.', 'Quae harum qui cupiditate aperiam velit. Laboriosam nemo modi et et repellat corrupti.', '1', '3', 0, '2019-03-30 12:35:27', '2019-05-27 18:21:07'),
-(33, 'Autem velit dolore a error sequi exercitationem perferendis.', 'Soluta natus perspiciatis totam eos. Ut asperiores delectus corporis quasi iste fugit et. Perferendis est ducimus qui et aut excepturi eveniet. Delectus aut voluptatem nam voluptatum facere ratione fuga.', '3', '2', 1, '2017-08-22 01:51:49', '2019-05-27 18:21:08'),
-(34, 'Id alias et dignissimos quia ea.', 'Delectus explicabo et quibusdam doloremque saepe. Rerum accusamus dolorem quos voluptas maiores laudantium voluptatibus. Aut qui nostrum soluta consequuntur aliquam officiis quo dicta. Excepturi adipisci similique itaque et nulla magnam. Tenetur ipsum omnis corrupti dignissimos.', '3', '1', 1, '2017-09-04 14:34:23', '2019-05-27 18:21:08'),
-(35, 'Aliquam quae doloribus harum quia sequi.', 'Temporibus voluptas dignissimos dolores cum voluptatem provident perferendis natus. Explicabo sit omnis eos aliquam et unde. Quia beatae fuga consequatur.', '1', '2', 0, '2017-09-15 01:44:22', '2019-05-27 18:21:08'),
-(36, 'Praesentium quas quibusdam dignissimos consequatur itaque quae sit.', 'Et vitae recusandae ea dolore recusandae consequuntur optio. Accusamus eius exercitationem qui illo dolor. Molestiae commodi dolorum non eum aut et.', '1', '3', 0, '2018-01-11 22:39:26', '2019-05-27 18:21:08'),
-(37, 'Amet eos nesciunt temporibus iste quia.', 'Voluptatem ab beatae sed nesciunt voluptatem nemo et. Omnis velit rerum eligendi nisi odio. Repudiandae ut nesciunt nam et est molestiae ab eligendi. Omnis iste doloremque tempora voluptas ducimus eligendi.', '1', '4', 0, '2019-05-21 23:03:28', '2019-05-27 18:21:08'),
-(38, 'Consequatur dolor magnam voluptas pariatur et sed.', 'Et ad est omnis aut sequi inventore. Quo aperiam dolore officiis nihil cumque reiciendis doloremque. Consequatur sed et sunt. Ut dolore recusandae ducimus.', '2', '4', 1, '2018-04-10 08:38:11', '2019-05-27 18:21:08'),
-(39, 'Dignissimos doloribus blanditiis cumque ducimus voluptate quia.', 'Ad eos iste aut. Rerum saepe reprehenderit nostrum quo laboriosam maiores aut. Sunt aut expedita officiis. Reiciendis autem est nam dolore aliquam iste. Pariatur voluptatem error autem ea consectetur consequuntur beatae ut.', '1', '3', 1, '2017-08-17 18:01:58', '2019-05-27 18:21:08'),
-(40, 'Ex culpa minus qui laboriosam corrupti quaerat.', 'Doloremque quis velit qui natus perferendis. Porro mollitia voluptas labore voluptatem suscipit autem illo. Sit eius architecto dolorem magni aliquid. Sapiente nihil et earum est sunt aut. Vel odio natus omnis quibusdam recusandae.', '1', '2', 0, '2018-02-13 21:41:45', '2019-05-27 18:21:08'),
-(41, 'Et magni sunt ut.', 'Voluptas debitis quibusdam quos odit. Rerum et autem distinctio ea est. Aut est recusandae vel vero est recusandae.', '2', '1', 0, '2018-10-04 00:39:12', '2019-05-27 18:21:08'),
-(42, 'Animi reprehenderit culpa impedit qui.', 'Doloremque occaecati occaecati voluptatem aut neque aliquam ut. Facilis molestiae corporis quo aut ad placeat sit. Velit distinctio aut neque modi ut sed.', '3', '1', 1, '2018-11-29 17:49:37', '2019-05-27 18:21:08'),
-(43, 'Odit et iste eum sint quia.', 'Ut qui ea et enim qui. Possimus commodi error minima ducimus nobis impedit dignissimos. Vitae laboriosam aut inventore ab eos nulla aut. Magnam id officia esse totam numquam ab molestias et. Ullam optio eum cumque repudiandae aut.', '2', '1', 0, '2019-04-09 18:47:51', '2019-05-27 18:21:08'),
-(44, 'Maxime voluptate non incidunt rerum ut impedit dolores similique.', 'Nulla voluptatibus quisquam sit velit et. Iste voluptatem reiciendis minima quos. Labore occaecati dolore consequuntur reiciendis qui. Et quidem non delectus neque harum tempora. Exercitationem minima labore ipsam sed.', '1', '4', 1, '2017-09-23 04:47:44', '2019-05-27 18:21:08'),
-(45, 'Corrupti aspernatur eos dolorem rerum est.', 'Voluptatibus ut reprehenderit quae et delectus. Accusantium eum officia reiciendis et. Earum sunt et occaecati numquam. Autem illum est adipisci eius eius non.', '1', '2', 1, '2017-09-25 12:53:21', '2019-05-27 18:21:10'),
-(46, 'Incidunt optio eos nihil veritatis.', 'Odit delectus cupiditate libero et. Optio sunt sint et qui. Hic deleniti repellat cupiditate voluptatibus sit aperiam quos necessitatibus. Ea excepturi rerum recusandae ut eaque.', '3', '2', 0, '2017-11-16 09:36:46', '2019-05-27 19:30:37'),
-(47, 'Vazamento de credenciais de email corporativo', 'O endereço de email corporativo de um funcionário da empresa possui credenciais vazadas. Uma consulta feita no site Have I Been Pwned (https://haveibeenpwned.com/) permite detectar isso. A alteração da senha deste email deve ser realizada como medida de segurança preventiva.', '1', '2', 1, '2019-05-27 18:21:11', '2019-05-27 18:21:11'),
-(48, 'Uso inadequado de email corporativo', 'Detectado violação de políticas de segurança da informação da empresa por parte de um funcionário que utiliza o email corporativo para realizar compras pessoais em sites da Internet. O usuário, de forma não intencional, pode deixar a rede de informações da empresa vulnerável ao acessar sites indevidos ou fazer downloads de origem duvidosa, uma vez que esses conteúdos podem conter agentes maliciosos.', '1', '4', 0, '2019-05-27 18:21:11', '2019-05-27 18:21:11'),
-(49, 'Ataque de força bruta para acesso ao sistema', 'Foi verificado no arquivo de log uma tentativa de acesso ao sistema utilizando nomes de usuários comuns (admin, guest, root, test, etc.) em ataques de força bruta. Muitas tentativas de ataque ao usuário root. Dicionários sendo utilizados com senhas fracas. O IP do invasor foi identificado e necessita ser bloqueado.', '2', '1', 1, '2019-05-27 18:21:11', '2019-05-27 18:21:11'),
-(50, 'Ataque com uso de botnets', 'Detectado grandes volumes de dados desconhecidos chegando em sequência de uma rede de computadores zumbis (botnets). Tal ocorrência ameaça derrubar o servidor da empresa deixando-o fora do ar. São necessárias medidas urgentes da equipe de segurança da informação desta empresa no sentido de neutralizar o ataque ou de mitigar suas possíveis consequências.', '3', '3', 0, '2019-05-27 18:21:11', '2019-05-27 18:21:11');
+(1, 'Expedita et ea quae quidem.', 'Et qui eligendi neque necessitatibus. Dolorem esse quae ea minima eligendi. Dignissimos qui veritatis unde praesentium aut. Doloremque ea rerum facilis quia eum.', '3', '3', 1, '2019-02-22 02:07:49', '2019-05-28 09:30:32'),
+(2, 'At omnis asperiores explicabo qui soluta.', 'Commodi quod quaerat nesciunt est velit. Beatae debitis et velit minima. Autem harum nihil error iure exercitationem placeat vero eveniet. Magnam dignissimos a est velit nam iusto. Deserunt aut dicta voluptatem ex.', '2', '1', 0, '2019-05-27 17:34:18', '2019-05-28 09:30:33'),
+(3, 'Minima dolor reiciendis nostrum rerum illo ut rerum odit.', 'Eum qui minima suscipit omnis alias. Quasi optio delectus quo ab. Cumque libero repellat expedita eos deleniti velit asperiores explicabo. Minus maiores magnam recusandae recusandae dolores.', '1', '2', 0, '2018-10-25 00:35:26', '2019-05-28 09:30:33'),
+(4, 'Est inventore fuga eveniet et.', 'A quisquam aut earum natus quaerat animi. Iste nobis voluptatum voluptatum ut voluptates quibusdam autem. Accusamus fugit hic nam autem veniam inventore est dolorem. Corrupti quia eius veniam a totam error itaque.', '1', '2', 0, '2018-02-12 00:47:51', '2019-05-28 09:30:33'),
+(5, 'Placeat consequatur quod illum aliquid sunt unde porro aut.', 'Deserunt maiores officia ut in laborum ratione et. Eum expedita laborum asperiores consequatur et. Consequatur mollitia eum et. Iure dolores inventore corporis nisi illum consequatur dolor.', '1', '2', 0, '2017-12-01 01:56:00', '2019-05-28 09:30:33'),
+(6, 'Dolores beatae occaecati voluptatem consequuntur libero vel.', 'Quidem expedita architecto consequatur dolore ut error. Id optio et nulla. Et nesciunt eius nihil earum atque sint quibusdam et. Eum rerum rem hic id voluptas.', '1', '3', 0, '2017-08-13 18:09:19', '2019-05-28 09:30:33'),
+(7, 'Est voluptas ullam est dolor reiciendis reprehenderit.', 'Adipisci temporibus quasi unde est ratione. Iure voluptatem voluptate nobis voluptatem at. Nam eum voluptates est voluptatibus quia dolor magni voluptatem. Cum impedit aut aut.', '2', '4', 1, '2018-04-18 03:05:35', '2019-05-28 09:30:33'),
+(8, 'Beatae magnam et et perspiciatis molestiae.', 'Sed recusandae eos qui tempora. Tenetur deserunt et aut nemo ab. Quod voluptatem ut est. Vel ab architecto alias praesentium.', '3', '3', 0, '2019-02-02 06:38:18', '2019-05-28 09:30:33'),
+(9, 'Placeat ea sit doloremque consequatur.', 'Mollitia necessitatibus dolorem et voluptatem tempore. Aperiam rerum assumenda eum maiores qui. Laborum maxime qui sint omnis quia inventore eos.', '2', '1', 1, '2017-09-10 11:51:05', '2019-05-28 09:30:33'),
+(10, 'Dolores illo doloribus ut debitis.', 'Porro repellat deserunt fugiat vel. Eos perspiciatis possimus rerum cum. Mollitia accusamus incidunt commodi et quia et iusto iste. Praesentium ut ex itaque qui rem omnis.', '2', '4', 0, '2018-09-25 03:39:21', '2019-05-28 09:30:33'),
+(11, 'Eum explicabo repellendus consequatur dolor animi in tempora hic.', 'Sed quia amet possimus libero laborum laudantium. Enim consequuntur eos eveniet ullam omnis qui ipsa necessitatibus. Beatae alias reprehenderit doloribus quam consequatur. Voluptatem voluptatem tempora facilis pariatur.', '3', '4', 0, '2018-08-31 02:15:28', '2019-05-28 09:30:33'),
+(12, 'Doloribus sunt et ipsum qui quasi.', 'Hic sequi inventore quisquam tempore et porro. Rerum maiores iusto aut sequi. Non maxime ut excepturi ut quia enim. Fuga consequuntur eum dolore totam quae totam dolorem.', '3', '2', 1, '2018-05-16 20:50:39', '2019-05-28 09:30:33'),
+(13, 'Harum quo consectetur ut accusantium vel.', 'Ut dolores adipisci voluptate omnis voluptatem et. Repellendus cupiditate earum enim tempora sit fugiat. Ut eveniet eligendi sint voluptatum deserunt quam quia. Illum corporis et tempora maxime atque illum veniam corporis. Rerum temporibus debitis ut similique blanditiis.', '2', '4', 0, '2018-11-16 19:26:03', '2019-05-28 09:30:33'),
+(14, 'Quaerat impedit eos aut magnam distinctio vel et.', 'Aliquid aliquid sunt vel autem qui a voluptatem. Unde est amet quos aspernatur itaque. Sint mollitia deleniti fugit eligendi illo doloremque consequuntur. Aspernatur vitae expedita voluptates.', '2', '1', 0, '2017-10-11 20:33:05', '2019-05-28 09:30:33'),
+(15, 'Non saepe est accusamus.', 'Dolorem occaecati occaecati magni architecto aut magnam impedit. Rerum voluptatem vitae eos perspiciatis aut. Enim non explicabo dolore cum expedita aut voluptatem qui. Ipsum eum quasi sequi sint.', '1', '1', 1, '2018-12-02 02:25:44', '2019-05-28 09:30:33'),
+(16, 'Ullam itaque maiores dolorem veritatis quaerat esse.', 'Aut doloremque tenetur ut. Ratione ullam consequatur fuga temporibus perferendis. Veniam rerum pariatur minima minima. Officia voluptatem qui fugiat fugit qui est. Alias atque non ut id adipisci eos.', '2', '2', 1, '2018-04-24 11:17:51', '2019-05-28 09:30:33'),
+(17, 'Ut dolores eos et voluptatum possimus quam ullam.', 'Illo illum sit saepe et ab. Distinctio et est placeat sequi.', '3', '3', 0, '2017-11-29 21:30:00', '2019-05-28 09:30:33'),
+(18, 'Velit quod est consequatur sunt a quasi esse dolor.', 'Consequuntur ut dolore ratione dicta. Dolorem ipsa ut aut distinctio at. Eum quis et cupiditate vitae.', '1', '2', 0, '2017-11-07 16:17:34', '2019-05-28 09:30:33'),
+(19, 'Ea dicta repellat libero aliquam fugit sint eos.', 'Inventore est sit iusto architecto. Quia facilis vitae perferendis voluptatem inventore. Itaque eos earum repellat dolor sit assumenda quis voluptatem. Perspiciatis est in autem ea ipsam. Amet cupiditate autem eum dolorum et magni.', '3', '3', 1, '2019-03-27 01:47:13', '2019-05-28 09:30:33'),
+(20, 'Quis dolorem saepe suscipit saepe officia.', 'Incidunt ab molestiae natus corrupti sint. Et optio similique sequi dolor nesciunt qui et. Sequi quaerat vel et assumenda quam. Et recusandae est qui est rem mollitia voluptas.', '1', '4', 0, '2018-06-10 21:27:05', '2019-05-28 09:30:33'),
+(21, 'Id laboriosam id sed enim.', 'Nobis necessitatibus dolores veritatis eligendi. Eum fuga voluptas cupiditate esse repellendus. Eligendi cum et delectus inventore quisquam iusto.', '2', '1', 0, '2017-08-30 10:27:32', '2019-05-28 09:30:33'),
+(22, 'Nulla perspiciatis et non autem laboriosam vero voluptatem.', 'Quas voluptas labore ullam ab illo. Aut in dolores et aspernatur libero voluptatem doloremque non. Iste autem quia dolorem tempora.', '2', '2', 0, '2018-06-07 02:52:29', '2019-05-28 09:30:34'),
+(23, 'Laborum eum quo optio assumenda quos.', 'Ad error excepturi in corporis reiciendis quo. Ut pariatur sed laborum excepturi est quia.', '3', '1', 1, '2018-06-17 06:03:17', '2019-05-28 09:30:34'),
+(24, 'Esse reiciendis corrupti earum consectetur autem.', 'Sunt quidem delectus et ut rerum laboriosam. Tempore totam veritatis quibusdam praesentium aut velit. Ut in ex et placeat explicabo praesentium.', '3', '4', 1, '2018-10-14 18:44:14', '2019-05-28 09:30:34'),
+(25, 'Eum minima dolor ullam dolorem id ex molestiae.', 'Aut aspernatur voluptatem praesentium quo cupiditate excepturi. Illo dicta laborum velit autem voluptate rerum. Distinctio alias consequatur qui magnam.', '2', '3', 1, '2017-11-03 11:43:21', '2019-05-28 09:30:34'),
+(26, 'Quod sunt explicabo est.', 'Sequi aliquam officia voluptatem aut sit. Qui nulla quidem perferendis reprehenderit velit ipsum. Quae nam placeat cupiditate illum enim aut. Eaque molestiae veniam aut non ut quo sed qui.', '2', '2', 1, '2018-05-03 05:16:29', '2019-05-28 09:30:34'),
+(27, 'Magnam odio qui repudiandae rerum non error dolorem.', 'Cupiditate molestias beatae est repellendus saepe ut odit. Dolorem expedita consequatur omnis sint vel neque.', '2', '3', 0, '2017-12-22 15:17:51', '2019-05-28 09:30:34'),
+(28, 'Tempore illum dicta id quas perferendis.', 'Ut error officia nihil officia. Expedita mollitia distinctio nobis quo sit tempora doloribus. Repudiandae error sequi molestiae qui quibusdam. Nam nostrum sint sit cumque doloremque.', '1', '2', 0, '2019-04-21 20:59:33', '2019-05-28 09:30:34'),
+(29, 'Praesentium impedit esse voluptatem commodi voluptates temporibus rem.', 'Optio accusamus omnis exercitationem optio incidunt. Soluta praesentium incidunt recusandae voluptatem. Similique maxime qui quis nihil totam a sed.', '1', '4', 1, '2018-07-30 17:07:37', '2019-05-28 09:30:34'),
+(30, 'Voluptatibus mollitia quia aspernatur neque soluta.', 'Error ea sunt ducimus officia corporis est hic. Et dignissimos alias commodi quisquam. Voluptatem molestiae est et saepe odio expedita. Ut reiciendis qui consectetur itaque possimus provident.', '2', '1', 0, '2019-03-07 05:19:23', '2019-05-28 09:30:34'),
+(31, 'Ea assumenda velit soluta.', 'Suscipit atque aut harum harum soluta. Inventore dolores suscipit aspernatur corporis quis.', '1', '4', 0, '2017-07-28 20:01:50', '2019-05-28 09:30:34'),
+(32, 'Et ea dolores veniam eos ut.', 'Sint optio quidem aliquid non iure minus qui. Soluta reiciendis molestiae earum molestiae dolore libero et. Et veritatis cumque ut est nihil.', '1', '4', 0, '2019-02-16 20:12:13', '2019-05-28 09:30:34'),
+(33, 'Blanditiis occaecati asperiores sunt accusantium sed.', 'Sit consequatur quo totam dolores id non. Repellat odit sit eum quisquam repellendus mollitia sunt. Expedita aut non quas reiciendis. Quia dolorem beatae assumenda sed incidunt nulla fugiat.', '3', '1', 1, '2018-09-26 23:28:55', '2019-05-28 09:30:34'),
+(34, 'Aliquid id necessitatibus non incidunt dolorem.', 'Modi aspernatur amet porro illo id totam eaque. Nisi modi dolores minima veniam neque. Et animi provident rerum cupiditate. Nam qui omnis non quos maiores nisi.', '3', '4', 1, '2018-10-05 08:50:15', '2019-05-28 09:30:34'),
+(35, 'Qui accusamus ullam sed perferendis consequatur.', 'Officiis at cumque harum reprehenderit. Veniam voluptatum iusto itaque autem vel. Omnis officiis nihil dolores minima ex.', '1', '3', 0, '2018-12-02 04:07:38', '2019-05-28 09:30:34'),
+(36, 'Recusandae quas in qui officiis iste corporis.', 'Cum porro enim et neque facere ea ut. Voluptate itaque eaque debitis voluptates. Facilis hic aperiam aut quam. Id sint ut et vitae rerum omnis est.', '1', '1', 1, '2017-10-12 20:07:05', '2019-05-28 09:30:34'),
+(37, 'Est quia quia voluptas ipsam.', 'Dolores aperiam rerum culpa. Quas quasi molestiae laborum eum pariatur. Molestiae ullam aut similique. In itaque nesciunt et.', '2', '4', 1, '2018-02-28 13:10:16', '2019-05-28 09:30:34'),
+(38, 'Sed maxime ea itaque perferendis incidunt qui quas distinctio.', 'Qui distinctio quia iste blanditiis qui est sed ea. Vitae tenetur eum aliquam accusamus est at. Distinctio mollitia aliquam veniam aut qui ipsa. Aut id est minus ad sunt quam.', '2', '1', 1, '2018-02-11 07:21:31', '2019-05-28 09:30:34'),
+(39, 'Nostrum officia cumque repudiandae autem culpa est.', 'Nostrum aut aspernatur iste. Reprehenderit doloremque aut quia et cum ex. Nam quibusdam consequatur odit qui ea. Id fugiat quidem provident.', '1', '2', 0, '2017-10-12 02:03:28', '2019-05-28 09:30:34'),
+(40, 'Blanditiis quaerat exercitationem inventore excepturi et et consequatur.', 'Accusantium assumenda ut temporibus totam fugiat magni aut beatae. Expedita occaecati et ea porro aperiam sit sequi. Assumenda itaque blanditiis consequatur.', '3', '3', 0, '2018-01-07 00:17:51', '2019-05-28 09:30:34'),
+(41, 'Magnam quos labore voluptatibus eveniet vitae.', 'Reprehenderit provident velit nihil occaecati provident. Ut aut est esse molestias. Laudantium esse quod voluptatem minima. Voluptatem earum iste dolorum numquam sunt voluptas.', '1', '2', 1, '2017-10-19 23:35:34', '2019-05-28 09:30:34'),
+(42, 'Dignissimos omnis quidem tenetur.', 'Et distinctio reiciendis ea quod corporis eius. Quas doloremque in aliquid ab iusto. Est est sit est quia doloribus autem. Aut quo optio voluptatem atque assumenda asperiores optio unde.', '3', '1', 1, '2019-03-18 14:03:35', '2019-05-28 09:30:35'),
+(43, 'Accusamus amet ut ut corrupti sunt.', 'Ab sit autem quos inventore. Voluptatem repellat quo cumque tempore odit sunt minus.', '3', '2', 1, '2018-08-24 16:02:22', '2019-05-28 09:30:35'),
+(44, 'Maiores tempora temporibus at qui error omnis nihil.', 'Nam voluptatem cupiditate aut et nesciunt ex voluptates. Sapiente sed molestiae fugiat et. In possimus facere ducimus maiores. Enim aut et quia.', '3', '2', 1, '2017-11-28 02:12:00', '2019-05-28 09:30:35'),
+(45, 'Explicabo consequatur pariatur esse dolor ab iste sunt.', 'Minima dolorum voluptatem aliquam iste architecto delectus cumque. Sint non dicta sit facere distinctio earum. Possimus ducimus laboriosam nobis. Dolores non quaerat facilis autem dolorum.', '2', '3', 0, '2018-05-04 02:45:08', '2019-05-28 09:30:35'),
+(46, 'Quis voluptatibus sequi aspernatur et tempore.', 'Consequuntur est quo officiis. Quod voluptatum dolore animi et. Quod iste quia dolor quo nostrum rerum id. Alias nostrum sunt rerum quibusdam.', '3', '4', 1, '2019-02-18 09:54:14', '2019-05-28 09:30:35'),
+(47, 'Vazamento de credenciais de email corporativo', 'O endereço de email corporativo de um funcionário da empresa possui credenciais vazadas. Uma consulta feita no site Have I Been Pwned (https://haveibeenpwned.com/) permite detectar isso. A alteração da senha deste email deve ser realizada como medida de segurança preventiva.', '1', '2', 1, '2019-05-28 09:30:35', '2019-05-28 09:30:35'),
+(48, 'Uso inadequado de email corporativo', 'Detectado violação de políticas de segurança da informação da empresa por parte de um funcionário que utiliza o email corporativo para realizar compras pessoais em sites da Internet. O usuário, de forma não intencional, pode deixar a rede de informações da empresa vulnerável ao acessar sites indevidos ou fazer downloads de origem duvidosa, uma vez que esses conteúdos podem conter agentes maliciosos.', '1', '4', 0, '2019-05-28 09:30:35', '2019-05-28 09:30:35'),
+(49, 'Ataque de força bruta para acesso ao sistema', 'Foi verificado no arquivo de log uma tentativa de acesso ao sistema utilizando nomes de usuários comuns (admin, guest, root, test, etc.) em ataques de força bruta. Muitas tentativas de ataque ao usuário root. Dicionários sendo utilizados com senhas fracas. O IP do invasor foi identificado e necessita ser bloqueado.', '2', '1', 1, '2019-05-28 09:30:35', '2019-05-28 09:30:35'),
+(50, 'Ataque com uso de botnets', 'Detectado grandes volumes de dados desconhecidos chegando em sequência de uma rede de computadores zumbis (botnets). Tal ocorrência ameaça derrubar o servidor da empresa deixando-o fora do ar. São necessárias medidas urgentes da equipe de segurança da informação desta empresa no sentido de neutralizar o ataque ou de mitigar suas possíveis consequências.', '3', '3', 0, '2019-05-28 09:30:35', '2019-05-28 09:30:35');
 
 -- --------------------------------------------------------
 
@@ -112,37 +112,7 @@ CREATE TABLE `migrations` (
 --
 
 INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
-(1, '2014_10_12_000000_create_users_table', 1),
-(2, '2014_10_12_100000_create_password_resets_table', 1),
-(3, '2019_05_25_002415_create_incidents_table', 1);
-
--- --------------------------------------------------------
-
---
--- Table structure for table `password_resets`
---
-
-CREATE TABLE `password_resets` (
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `token` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `created_at` timestamp NULL DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
--- --------------------------------------------------------
-
---
--- Table structure for table `users`
---
-
-CREATE TABLE `users` (
-  `id` int(10) UNSIGNED NOT NULL,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `created_at` timestamp NULL DEFAULT NULL,
-  `updated_at` timestamp NULL DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+(1, '2019_05_25_002415_create_incidents_table', 1);
 
 --
 -- Indexes for dumped tables
@@ -161,19 +131,6 @@ ALTER TABLE `migrations`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `password_resets`
---
-ALTER TABLE `password_resets`
-  ADD KEY `password_resets_email_index` (`email`);
-
---
--- Indexes for table `users`
---
-ALTER TABLE `users`
-  ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `users_email_unique` (`email`);
-
---
 -- AUTO_INCREMENT for dumped tables
 --
 
@@ -187,13 +144,7 @@ ALTER TABLE `incidents`
 -- AUTO_INCREMENT for table `migrations`
 --
 ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
-
---
--- AUTO_INCREMENT for table `users`
---
-ALTER TABLE `users`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
