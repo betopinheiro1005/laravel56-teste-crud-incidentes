@@ -43,22 +43,22 @@
        {!! Form::open(['route' => 'incidents.store', 'method' => 'POST']) !!}
 
 			<div class="form-group">
-				{!! Form::label('title','Título (title)', ['class' => 'font_label']) !!}
+				{!! Form::label('title','Título (title) *', ['class' => 'font_label']) !!}
 				{!! Form::text('title',null,['class' =>'form-control', 'placeholder' =>'Título do incidente'])!!}
 			</div>
 
 			<div class="form-group">
-				{!! Form::label('description','Descrição (description)', ['class' => 'font_label']) !!}
+				{!! Form::label('description','Descrição (description) *', ['class' => 'font_label']) !!}
 				{!! Form::textarea('description',null,['class' =>'form-control', 'placeholder' =>'Descrição do incidente', 'rows' => '5'])!!}
 			</div>
 
 			<div class="form-group">
-				{!! Form::label('criticality','Criticidade (criticality)', ['class' => 'font_label']) !!}
+				{!! Form::label('criticality','Criticidade (criticality) *', ['class' => 'font_label']) !!}
 				{!! Form::select('criticality',['' => 'Selecione uma opção', 1 => 'Baixa', 2 => 'Média', 3 => 'Alta'],null,['class' =>'form-control'])!!}
 			</div>
 
 			<div class="form-group">
-				{!! Form::label('type','Tipo (type)', ['class' => 'font_label']) !!}
+				{!! Form::label('type','Tipo (type) *', ['class' => 'font_label']) !!}
 				{!! Form::select('type',['' => 'Selecione uma opção', 1 => 'Ataque Brute Force', 2 => 'Credenciais vazadas', 3 => 'Ataque de DDoS', 4 => 'Atividades anormais de usuário'],null,['class' =>'form-control'])!!}
 			</div>
 
