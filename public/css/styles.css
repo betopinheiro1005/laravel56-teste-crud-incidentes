@@ -1,0 +1,32 @@
+/*
+|--------------------------------------------------------------------------
+| Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
+|--------------------------------------------------------------------------
+| Autor: Roberto Pinheiro
+| Arquivo: style.css
+| Categoria: CSS
+| Descrição: Folha de estilos
+*/
+
+.logo_aplicativo, .logo_empresa{
+	font-family: 'Paytone One', sans-serif;
+	font-style: italic;
+	color: #FAFAD2;
+	font-size: 22px;
+}
+
+.titulo_painel{
+	font-family: 'Sriracha', cursive;
+	/*font-style: italic;*/
+	text-transform: uppercase;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+.subtitulo_painel{
+	font-family: 'Sriracha', cursive;
+}
+
+.font_label {
+	font-weight: bold;
+	font-size: 16px;
+}
