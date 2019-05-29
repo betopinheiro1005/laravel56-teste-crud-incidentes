@@ -27,7 +27,7 @@
 	          </div>
 			</div>
 			<div class="col-8 text-right">
-				<h4>* Informação obrigatória</h4>
+				<h5>* Informação obrigatória</h5>
 			</div>
 		</div>
 
