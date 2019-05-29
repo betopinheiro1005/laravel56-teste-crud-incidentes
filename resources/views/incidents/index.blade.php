@@ -80,11 +80,11 @@
     <br>
 
     <div class="row">
-      <div class="col-6">
+      <div class="col-md-8 col-lg-6">
         {!! $incidents->render() !!}
       </div>
-      <div class="col-6 text-right">
-        <p class="mr-1" style="font-size: 18px;">Total de incidentes registrados: <span style="color: red;">{{ $total_incidents }}</span> </p>
+      <div class="col-xm-12 col-md-4 col-lg-6">
+        <p style="font-size: 18px; float: right;">Total de incidentes: <span style="color: red;">{{ $total_incidents }}</span> </p>
       </div>
     </div>
 
