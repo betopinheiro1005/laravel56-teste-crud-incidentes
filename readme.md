@@ -30,7 +30,9 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
 2. Acesse o **phpmyadmin** com:
     - nome de usuário: **root**
     - senha: 
-    - ***OBS***: Deixar a senha em branco.
+
+    **OBS**: Deixe a senha em branco.
+
 3. Crie um banco de dados com o nome ***incidentes***.
 4. Importe o arquivo  **incidentes.sql** (disponível nos arquivos baixados). Será automaticamente criada a tabela do sistema populada com 50 registros de teste.
 
@@ -38,18 +40,34 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
 
 Para testar o aplicativo inicie o servidor local (Apache) e o MySQL.Em seguida, utilizando um navegador como o Google Chrome ou Firefox, entre com a seguinte URL:
 
-`http://localhost/incidentes/public/`
+> `http://localhost/incidentes/public/`
+
 
 ## Screenshots
 
-`http://localhost/incidentes/public/incidents/`
-![Listar registros de incidentes](public/images/CRUD-Read.jpg)
 
-`http://localhost/incidentes/public/incidents/create`
-![Criar registro de incidente](public/images/CRUD-Create.jpg)
+> `http://localhost/incidentes/public/incidents`
 
-`http://localhost/incidentes/public/incidents/50/edit`
-![Atualizar registro de incidente](public/images/CRUD-Update.jpg)
 
-`http://localhost/incidentes/public/incidents/50/destroy`
-![Excluir registro de incidente](public/images/CRUD-Delete.jpg)
+![](public/images/CRUD-Read.jpg)
+
+<br>
+
+
+> `http://localhost/incidentes/public/incidents/create`
+
+
+![](public/images/CRUD-Create.jpg)
+
+<br>
+
+> `http://localhost/incidentes/public/incidents/50/edit`
+
+![](public/images/CRUD-Update.jpg)
+
+<br>
+
+> `http://localhost/incidentes/public/incidents/50/destroy`
+
+
+![](public/images/CRUD-Delete.jpg)
