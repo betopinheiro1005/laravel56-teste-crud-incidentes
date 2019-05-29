@@ -38,7 +38,7 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
 
 ## Uso
 
-Para testar o aplicativo inicie o servidor local (Apache) e o MySQL.Em seguida, utilizando um navegador como o Google Chrome ou Firefox, entre com a seguinte URL:
+Para testar o aplicativo inicie o servidor local (Apache) e o MySQL. Em seguida, utilizando um navegador como o Google Chrome ou Firefox, entre com a seguinte URL:
 
 > `http://localhost/incidentes/public/`
 
