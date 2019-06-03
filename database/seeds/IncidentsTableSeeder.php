@@ -5,7 +5,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: IncidentsTableSeeder.php
+| Arquivo: database/seeds/IncidentsTableSeeder.php
 | Camada: Model
 | Descrição: Define registros fixos a a quantidade de registros fakers que serão
 | criados visando popular a tabela de incidentes para realização de testes no sistema

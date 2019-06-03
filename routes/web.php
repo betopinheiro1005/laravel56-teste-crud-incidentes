@@ -5,7 +5,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: web.php
+| Arquivo: routes/web.php
 | Camtegoria: Routes
 | Descrição: Registra as rotas da aplicação a serem criadas e se comunica com os controllers
 | Última atualização: 26/05/2019

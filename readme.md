@@ -6,9 +6,12 @@ O **SGI** versão 1.0, é um sistema básico de Gerenciamento de Incidentes que 
 
 ## Características
 
-- Sistema desenvolvido com o PHP e o framework Laravel 5.6
+- Sistema desenvolvido com PHP (versão 7.2.11) orientado a objetos
+- Utiliza o framework Laravel versão 5.6
 - Arquitetura da aplicação: padrão MVC (Model-View-Controller).
-- Design visual: Utiliza o framework front-end Bootstrap e é responsivo.
+- Utiliza o pacote Laravel Collective versão 5.6.0 para criação de formulários
+- Design visual: Utiliza o framework front-end Bootstrap. É responsivo.
+- Icones: utiliza o framework Font Awesome Icons
 
 ## Download
 
@@ -22,7 +25,6 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
 - PHP
 - MySQL
 - Ferramenta para administração de bancos de dados (como por exemplo, o phpmyadmin)
-
 
 ## Instalação
 

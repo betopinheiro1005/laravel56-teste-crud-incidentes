@@ -5,7 +5,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: IncidentsController.php
+| Arquivo: app/Http/Controllers/IncidentsController.php
 | Camada: Controller
 | Descrição: Controlador, tipo resource, com as funções de CRUD do sistema
 | Última atualização: 26/05/2019

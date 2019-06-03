@@ -1,10 +1,10 @@
 @php
 /*
 |--------------------------------------------------------------------------
-| Cadastro de Incidentes
+| Sistema de Gerenciamento de Incidentes - Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: app.blade.php
+| Arquivo: resources/views/layouts/app.blade.php
 | Camada: View
 | Descrição: Arquivo de template principal usado para evitar repetição de código
 | Última atualização: 26/05/2019

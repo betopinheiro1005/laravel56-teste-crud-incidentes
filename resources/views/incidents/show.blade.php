@@ -4,7 +4,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: show.blade.php
+| Arquivo: resources/views/incidents/show.blade.php
 | Camada: View
 | Descrição: Exibe detalhes de um incidente específico
 | Última atualização: 26/05/2019

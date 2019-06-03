@@ -4,7 +4,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: create.blade.php
+| Arquivo: resources/views/incidents/create.blade.php
 | Camada: View
 | Descrição: Formulário para registrar um incidente no sistema
 | Última atualização: 26/05/2019

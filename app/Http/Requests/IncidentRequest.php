@@ -5,7 +5,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: IncidentRquest.php
+| Arquivo: app/Http/Requests/IncidentRquest.php
 | Categoria: Requests
 | Descrição: Regras de validação para os formulários de incidentes (de criação e edição)
 | Última atualização: 26/05/2019

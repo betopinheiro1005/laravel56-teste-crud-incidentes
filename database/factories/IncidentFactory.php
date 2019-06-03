@@ -5,10 +5,9 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: IncidentFactory.php
+| Arquivo: database/factories/IncidentFactory.php
 | Camada: Model
-| Descrição: Factory que define registros fakers a serem criados
-| para através de um seeder popular a tabela de incidentes
+| Descrição: Factory que define registros fakers a serem criados para através de um seeder popular a tabela de incidentes
 | Última atualização: 26/05/2019
 */
 

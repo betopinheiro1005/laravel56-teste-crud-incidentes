@@ -5,7 +5,7 @@
 | Sistema de Gerenciamento de Incidentes - SGI Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: create_incidents_table.php
+| Arquivo: database/migrations/create_incidents_table.php
 | Camada: Model
 | Descrição: Migration para criação da tabela de incidentes
 | Última atualização: 26/05/2019

@@ -4,7 +4,7 @@
 | Sistema de Gerenciamento de Incidentes - Versão 1.0
 |--------------------------------------------------------------------------
 | Autor: Roberto Pinheiro
-| Arquivo: navadmin.blade.php
+| Arquivo: resources/views/partials/navadmin.blade.php
 | Camada: View
 | Descrição: Barra de navegação padrão no cabeçalho com links para diversas páginas.
 | Última atualização: 26/05/2019
