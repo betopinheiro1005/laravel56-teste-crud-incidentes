@@ -6,7 +6,7 @@
 | Autor: Roberto Pinheiro
 | Arquivo: resources/views/incidents/index.blade.php
 | Camada: View
-| Descrição: Exibe uma tabela responsiva com listagem dos registros de incidentes
+| Descrição: Exibe uma tabela responsiva com a listagem das notificações de incidentes
 | Última atualização: 26/05/2019
 */
 @endphp
