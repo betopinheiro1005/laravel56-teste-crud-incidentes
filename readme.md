@@ -33,7 +33,7 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
     - nome de usuário: **root**
     - senha: 
 
-    **OBS**: Deixe a senha em branco.
+    **OBS**: Use senha em branco.
 
 3. Crie um banco de dados com o nome ***incidentes***.
 4. Importe o arquivo  **incidentes.sql** (disponível nos arquivos baixados). Será automaticamente criada a tabela do sistema populada com 50 registros de teste.
