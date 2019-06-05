@@ -69,6 +69,13 @@ Para testar o aplicativo inicie o servidor local (Apache) e o MySQL. Em seguida,
 
 <br>
 
+> `http://localhost/incidentes/public/incidents/50`
+
+![](public/images/CRUD-View.jpg)
+
+<br>
+
+
 > `http://localhost/incidentes/public/incidents/50/destroy`
 
 
