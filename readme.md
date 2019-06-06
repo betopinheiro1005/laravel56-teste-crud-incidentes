@@ -1,8 +1,8 @@
-# GERENCIAMENTO DE INCIDENTES
+# SISTEMA DE GERENCIAMENTO DE INCIDENTES
 
 ## Sobre
 
-O **SGI** versão 1.0, é um sistema básico de Gerenciamento de Incidentes que permite criar, ler, atualizar e excluir registros de incidentes (**CRUD**). Nesta versão inicial não está incluída um sistema de autenticação de usuários (Login) que será implementado em uma versão futura.
+O **SGI** versão 1.0, é um sistema básico de Gerenciamento de Incidentes que permite criar, ler, atualizar e excluir registros de incidentes (**CRUD**).
 
 ## Características
 
@@ -15,7 +15,7 @@ O **SGI** versão 1.0, é um sistema básico de Gerenciamento de Incidentes que 
 
 ## Download
 
-Inicialmente faça o download dos arquivos em meu [Github](https://github.com/betopinheiro1005/projeto-gerenciamento-incidentes)
+Inicialmente faça o download dos arquivos em meu [Github](https://github.com/betopinheiro1005/projeto-gerenciamento-incidentes/tree/v1.0)
 
 ## Requisitos
 
