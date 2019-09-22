@@ -1,8 +1,8 @@
-# SISTEMA DE GERENCIAMENTO DE INCIDENTES
+# CRUD DE INCIDENTES
 
 ## Sobre
 
-O **SGI** versão 1.0, é um sistema básico de Gerenciamento de Incidentes que permite criar, ler, atualizar e excluir registros de incidentes (**CRUD**).
+É um CRUD de Incidentes que permite criar, ler, atualizar e excluir registros de incidentes.
 
 ## Características
 
