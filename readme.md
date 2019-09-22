@@ -2,7 +2,7 @@
 
 ## Sobre
 
-É um CRUD de Incidentes que permite criar, ler, atualizar e excluir registros de incidentes.
+É um CRUD básico que permite criar, ler, atualizar e excluir registros de incidentes.
 
 ## Características
 
