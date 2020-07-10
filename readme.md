@@ -1,4 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/betopinheiro1005/crud-incidentes)
+![GitHub language count](https://img.shields.io/github/languages/count/betopinheiro1005/crud-incidentes)
+![GitHub top language](https://img.shields.io/github/languages/top/betopinheiro1005/crud-incidentes)
 
 # CRUD DE INCIDENTES
 
