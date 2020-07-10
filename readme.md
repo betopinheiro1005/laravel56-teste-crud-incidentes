@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/betopinheiro1005/crud-incidentes)
+
 # CRUD DE INCIDENTES
 
 ## Sobre
