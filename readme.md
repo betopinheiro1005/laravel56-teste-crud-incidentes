@@ -30,7 +30,7 @@ Pacote de serviços integrados (xampp, wamp server, Laragon ou outro qualquer) q
 - MySQL
 - Ferramenta para administração de bancos de dados (como por exemplo, o phpmyadmin)
 
-### Instalação de dependências
+## Instalação de dependências
 
 ```bash
 composer install
